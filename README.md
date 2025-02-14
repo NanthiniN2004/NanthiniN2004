@@ -55,7 +55,7 @@ Passionate about AI, Data Science, and Software Development. I love working on p
 ---  
 ## 💼 Connect with Me  
 
-🌐 **GitHub:** [Nanthini-S93](https://github.com/NanthiniN2004)  
+🌐 **GitHub:** [Nanthini N](https://github.com/NanthiniN2004)  
 🔗 **LinkedIn:** [Nanthini](https://www.linkedin.com/in/nanthini-n-98300025a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 📩 **Email:** nanthininagarjan2@gmail.com  
 
