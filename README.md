@@ -7,7 +7,7 @@ Transforming ideas into intelligent solutions through the power of AI, Data Scie
 ---  
 ## 🌟 About Me  
 
-- 🎓 **B. Tech in Artificial Intelligence & Data Science** at **Dr. MCET, Pollachi** (*CGPA: 9.15*)  
+- 🎓 **B. Tech in Artificial Intelligence & Data Science** at **Dr. MCET, Pollachi** (*CGPA: 8.9*)  
 - 💻 **Software Developer** skilled in *Java, Python, and Data Analytics*  
 - 🤖 **AI Enthusiast** exploring *Machine Learning, NLP, and Smart City Technologies*  
 - 🏆 **Problem Solver** with expertise in *Data Structures, Algorithms, and Competitive Coding*  
