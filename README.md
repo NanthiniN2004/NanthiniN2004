@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Nanthini 😎
 
-## 🚀 Software Developer | AI & Data Science Enthusiast | Problem Solver  
+## 🚀 Innovator | AI & Data Science Explorer | Code Enthusiast | Problem Solver
 
-Passionate about AI, Data Science, and Software Development. I love working on projects that solve real-world problems and push my limits. Let's connect and build something amazing together! 💡✨  
+Transforming ideas into intelligent solutions through the power of AI, Data Science, and Software Development. Passionate about solving real-world challenges, optimizing systems, and pushing boundaries with code. Always eager to learn, innovate, and collaborate to build the future. Let's create something impactful! 🌟💡
 
 ---  
 ## 🌟 About Me  
